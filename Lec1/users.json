@@ -1,0 +1,41 @@
+{
+    "users" : [
+        {
+            "name" : "Mikle"  ,
+            "type" : "Admin" ,
+            "age" :   "37",
+            "social" :   {
+                "vkontakte" :  "https://vk.com/id=234556" ,
+                "facebook" :  "https://fb.com/id=89846642" 
+            } 
+
+        },
+        {
+            "name" :  "John" ,
+            "type" :  "Regular" ,
+            "age" :   "20",
+            "social" :   {
+                "vkontakte" :  "https://vk.com/id=12324899" ,
+                "facebook" :   "https://fb.com/id=00457673" 
+            } 
+        },
+        {
+            "name" :  "Linda" ,
+            "type" :   "Regular",
+            "age" :   "26",
+            "social" :   {
+                "vkontakte" :  "https://vk.com/id=23400976" ,
+                "facebook" :   "https://fb.com/id=00457690"
+            } 
+        },
+        {
+            "name" :   "Alina",
+            "type" :   "Regular" ,
+            "age" :   "",
+            "social" :   {
+                "vkontakte" :   "https://vk.com/id=12324867",
+                "facebook" :   "https://fb.com/id=89846555"
+            } 
+        }
+    ]
+}
