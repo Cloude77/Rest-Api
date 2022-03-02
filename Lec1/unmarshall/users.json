@@ -1,10 +1,11 @@
-{
+{    
     "users" : [
-        {
+        {  
             "name" : "Mikle"  ,
             "type" : "Admin" ,
             "age" :   "37",
             "social" :   {
+                
                 "vkontakte" :  "https://vk.com/id=234556" ,
                 "facebook" :  "https://fb.com/id=89846642" 
             } 
